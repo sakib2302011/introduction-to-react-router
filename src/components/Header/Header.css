@@ -1,0 +1,6 @@
+.header{
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  font-size: large;
+}
